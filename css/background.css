@@ -1,0 +1,85 @@
+.blur1::before{
+    background: url("../photos/cod4.jpg");
+    content: "";
+    position: absolute;
+    top: 0; left: 0;
+    width: 100%; height: 100%;
+    background-size: cover;
+    filter: blur(2px);
+    z-index: -1;
+}
+.blur2::before{
+    background: url("../photos/csgo.jpg");
+    content: "";
+    position: absolute;
+    top: 0; left: 0;
+    width: 100%; height: 100%;
+    background-size: cover;
+    filter: blur(2px);
+    z-index: -1;
+}
+.blur3::before{
+    background: url("../photos/fifa19.jpg");
+    content: "";
+    position: absolute;
+    top: 0; left: 0;
+    width: 100%; height: 100%;
+    background-size: cover;
+    filter: blur(2px);
+    z-index: -1;
+}.blur4::before{
+    background: url("../photos/fortnite.jpg");
+    content: "";
+    position: absolute;
+    top: 0; left: 0;
+    width: 100%; height: 100%;
+    background-size: cover;
+    filter: blur(2px);
+    z-index: -1;
+}.blur5::before{
+    background: url("../photos/gtav.jpg");
+    content: "";
+    position: absolute;
+    top: 0; left: 0;
+    width: 100%; height: 100%;
+    background-size: cover;
+    filter: blur(2px);
+    z-index: -1;
+}.blur6::before{
+    background: url("../photos/leagueoflegends.jpg");
+    content: "";
+    position: absolute;
+    top: 0; left: 0;
+    width: 100%; height: 100%;
+    background-size: cover;
+    filter: blur(2px);
+    z-index: -1;
+}.blur7::before{
+    background: url("../photos/mohaa.jpg");
+    content: "";
+    position: absolute;
+    top: 0; left: 0;
+    width: 100%; height: 100%;
+    background-size: cover;
+    filter: blur(2px);
+    z-index: -1;
+}
+.blur8::before{
+    background: url("../photos/pes19.jpg");
+    content: "";
+    position: absolute;
+    top: 0; left: 0;
+    width: 100%; height: 100%;
+    background-size: cover;
+    filter: blur(2px);
+    z-index: -1;
+}.blur9::before{
+    background: url("../photos/residentevil2.jpg");
+    content: "";
+    position: absolute;
+    top: 0; left: 0;
+    width: 100%; height: 100%;
+    background-size: cover;
+    filter: blur(2px);
+    z-index: -1;
+}
